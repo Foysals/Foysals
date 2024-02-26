@@ -3,7 +3,10 @@ i'm a Front End & Back End web developer who is passionate about making error-fr
 
 Technical Skills :
 
-✔Front end - Html5 ,Css, Bootstrap,
-✔Backend - Php,Laravel.
-✔ Database -MySQL.
+✔Front end - Html5 ,Css, Bootstrap
+
+✔Backend - Php,Laravel
+
+✔ Database -MySQL
+
 ✔Version Control - Github
