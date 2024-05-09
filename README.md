@@ -4,10 +4,10 @@
 
 Technical Skills :
 
-✔Front end - Html5 ,Css, Bootstrap
+✔Front end - Html5 ,Css, Bootstrap,java script,React
 
 ✔Backend - Php,Laravel
 
 ✔ Database -MySQL
 
-✔Version Control - Github
+✔Version Control - Git,Github
