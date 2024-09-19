@@ -2,7 +2,7 @@
 
 
 
-<p align="left">My name is Foysal Ahamed and I'm a Web Developer from Bangladesh</p>
+<p align="left">My name is <b>Foysal Ahamed </b> and I'm a Web Developer from Bangladesh</p>
 
 
 
