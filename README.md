@@ -3,13 +3,6 @@
 
 
 <p align="left">My name is <b>Foysal Ahamed </b> and I'm a Web Developer from Bangladesh</p>
-
-
-
-<h2 align="left">About me</h2>
-
-
-
 <p align="left">i'm a Front End & Back End web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.</p>
 <h2 align="left">My Skills 🚀</h2>
 
