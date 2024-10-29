@@ -40,10 +40,14 @@
 </div>
 
 <h2 align="left">My Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysalAhamed&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=foysalAhamed&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalAhamed&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalAhamed&layout=compact&theme=radical" alt="Top Languages" />
-</div>
