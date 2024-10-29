@@ -1,3 +1,24 @@
+
+.profile-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.stat {
+  display: flex;
+  align-items: center;
+}
+
+.stat-label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.stat-value {
+  font-weight: bold;
+}
+
 <h1 align="left">Hello 👋 </h1>
 
 
@@ -37,3 +58,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="40" alt="versel logo"  />
 </div>
+
+<div class="profile-stats">
+  <div class="stat">
+    <span class="stat-label">Stars:</span>
+    <span class="stat-value">202</span>
+  </div>
+  <div class="stat">
+    <span class="stat-label">Commits:</span>
+    <span class="stat-value">77</span>
+  </div>
+  <!-- Add more stats as needed -->
+</div>
+
