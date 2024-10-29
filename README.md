@@ -39,12 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" height="40" alt="vercel logo" />
 </div>
 
-<h2 align="left">GitHub Profile Stats</h2>
+<h2 align="left">My Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foysal47&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foysalAhamed&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<h2 align="left">Most Used Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal47&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalAhamed&layout=compact&theme=radical" alt="Top Languages" />
 </div>
