@@ -3,7 +3,7 @@
   My name is <b>Foysal Ahamed</b> and I'm a Software Developer from Bangladesh.
 </p>
 <p align="left">
- an engineering-driven developer who turns complex technical challenges into high-speed web products. I manage the entire stack with a focus on clean, reusable code and seamless performance. I excel in Next.js and full-stack architecture, always delivering modern solutions that actually solve problems for every user.
+An engineering-driven developer who turns complex technical challenges into high-speed web products. I manage the entire stack with a focus on clean, reusable code and seamless performance. I excel in Next.js and full-stack architecture, always delivering modern solutions that actually solve problems for every user.
 
 My code is built to last, helping your startup reach the next level!
 
