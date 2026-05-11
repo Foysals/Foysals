@@ -1,10 +1,13 @@
 <h1 align="left">Hello</h1>
 <p align="left">
-  My name is <b>Foysal Ahamed</b> and I'm a Web Developer from Bangladesh.
+  My name is <b>Foysal Ahamed</b> and I'm a Software Developer from Bangladesh.
 </p>
 <p align="left">
-  I'm a Front End & Back End web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
-</p>
+ an engineering-driven developer who turns complex technical challenges into high-speed web products. I manage the entire stack with a focus on clean, reusable code and seamless performance. I excel in Next.js and full-stack architecture, always delivering modern solutions that actually solve problems for every user.
+
+My code is built to last, helping your startup reach the next level!
+
+Building scalable solutions and crafting modern digital experiences.
 
 <h2 align="left">Languages and Tools :</h2>
 <div align="left">
